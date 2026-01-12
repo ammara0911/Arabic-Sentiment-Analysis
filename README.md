@@ -27,4 +27,3 @@ model fine-tuning, and an inference-ready Streamlit application.
 
 ## 🔹 Status
 This repository is intended for **portfolio and academic showcase**.
-Live deployment is not included.
